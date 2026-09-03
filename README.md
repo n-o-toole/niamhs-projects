@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm starting my Masters in Space Science and Technology in a few months, so I'm currently working on improving my python skills and developing some data science skills such as SQL, machine learning, etc. 
+I have just completed my MSc in Space Science and Technology and I am currently doing an internship in Quantum Communications. I am sharing the various programming projects I have completed over the past few years here. 
 <!--
 **n-o-toole/n-o-toole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
