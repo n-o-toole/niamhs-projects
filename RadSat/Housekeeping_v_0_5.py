@@ -1,9 +1,4 @@
 #!/usr/bin/env python 3
-"""
-Description:
-Performs housekeeping.
-
-"""
 
 import machine, onewire, ds18x20, time
 from machine import UART, Pin
